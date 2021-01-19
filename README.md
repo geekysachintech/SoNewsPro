@@ -3,8 +3,9 @@
 1. News App Made From https://newsapi.org/
 2. Code written on Kotlin
 3. This projects follows MMVM Architecture
-4. Topics covered are MVVM, Livedata, Fragments, Dark Mode toggle etc
+4. Topics covered are MVVM, Livedata, Fragments, Dark Mode toggle, Retrofit, etc
 5. Pagination on home page.
+6. Save favorite article to read later.
 
 
 <table>
