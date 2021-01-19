@@ -12,7 +12,7 @@
  
   <tr>
     <td valign="top"><img src="https://github.com/geekysachintech/SoNewsPro/blob/main/Screenshots%20%26%20Apk/1.jpeg"></td>
-     <td valign="top"><img src="https://github.com/geekysachintech/SoNewsPro/blob/main/Screenshots%20%26%20Apk/4.jpeg"></td>
+    <td valign="top"><img src="https://github.com/geekysachintech/SoNewsPro/blob/main/Screenshots%20%26%20Apk/4.jpeg"></td>
     <td valign="top"><img src="https://github.com/geekysachintech/SoNewsPro/blob/main/Screenshots%20%26%20Apk/2.jpeg"></td>
     <td valign="top"><img src="https://github.com/geekysachintech/SoNewsPro/blob/main/Screenshots%20%26%20Apk/5.jpeg"></td>
     <td valign="top"><img src="https://github.com/geekysachintech/SoNewsPro/blob/main/Screenshots%20%26%20Apk/3.jpeg"></td>
